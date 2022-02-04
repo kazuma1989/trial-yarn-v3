@@ -1,0 +1,9 @@
+// https://www.typescriptlang.org/ja/tsconfig
+{
+  "extends": "./tsconfig.json",
+
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": false,
+    "useUnknownInCatchVariables": false
+  }
+}
